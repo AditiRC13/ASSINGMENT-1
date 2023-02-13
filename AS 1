@@ -1,0 +1,73 @@
+ 1) Python programming language was developed by Guido Van Rossum in 1991.
+ 
+ 2)Python supports multiple programming paradigsms,including
+ 
+ *Imperative programming- This involves giving the computer a sequence of task to       perform ,using statement that change a program's state.
+ 
+ *Object-Oriented programming (OOP)-this is a programming based on the concept of       "objects",which can contain data and code that manipulates that data.
+ 
+ *Functional programming - this is a programming that treats computation as the         evaluation of mathematical functions and avoids changing -state and mutable data.
+ 
+ *Procedural programming - this is a programming based on the cocept of                 procedures,which are functions that operate on data
+ 
+3)Identires in python are names used to identify or define data structures.python is case sensitive when dealing with identifiers while nameing identifiers in python ,proper nameing conventions shouls be followed for example "Aditi" and "aditi" are different identifiers.
+
+4)Extension of python file is -".py"
+
+5)Python is usually considered as interpreted language .In interpreted language the code is run line by line it also means that the instructions exected without earlier comiling the whole program into machine language .But python is both compiled and interpreted language as when we run python code it is first compiled and then interpreted line by line .The compilation compilation part is mostly hidden.While running the code ,python generates a byte code internally ,this byte code is then converted using a python virtual machine to generate  the output.
+
+6)Blocks of code use to define in python language 
+A MODULE
+AFUNCTION
+A CLASS DEFINATION
+A SCRIPT FILE
+A SCRIPT COMMAND ETC..
+
+7)Character use to give single line comment in python is -'#'
+
+8)Function which can help us to find the version of python that we are currently working on -'sys.version'
+
+9)Python supports the creation of anonymous functionsat runtime ,using a construct called-'lambda'
+
+10)PIP in python-" preferred installer program "
+it allow you to install and manage packages that aren't part of python standatd library
+
+11)Built in function of python 
+ *print()
+ *abs()
+ *round()
+ *min()
+ *max()
+ *sum()
+ *len()
+ *dir()
+ *type()
+ *sorted() etc..
+ 
+12)Maximum possible lenght of identifier in python is -79 characters
+
+13)Benefits of useing python 
+ *Easy to read ,learn and write 
+ *ineterpreted language exicute the code line by line
+ *free and open source (OSI approved) make it free to use and distribute 
+ *vast liberary support can find almost all function needed for task
+ *large developer community strong peer support and helpfuldocumentation
+ *portability-we can run our python program across windows ,MacOS and Linux without modifying the program code.
+ 
+ 14)Memory Management in python involves the management of private heap.Aprovate heap is a potion og memory that is exclusive to python process .All python objects and data structure are stored in private heap.The python heap is managed by python memory manager defined inside the CPython code .
+ Python also has a build in garbage collector which recycle all the unused memory.When an object is no longer referred by the program,the heap space it occupies can be freed.
+ 
+ 15)step to install python in windows
+ *open the browser to the python website and download the windows installer 
+ *double click on the downloaded file and install python for all users,and ensure that python is added to your path.Click on install now to begin 
+ *after the installation is complete ,click disable path lenght limit and then close 
+ *click close to end the installation
+  We can set path variabe in python in following way 
+  *Right click on this PC and go to properties
+  *click on advanced system settings menu in the left
+  *click on environment variables button on the bottom right
+  *in the system variable section ,select the Path variable and click on edit.The      next screen will show all the directions that are currently a part of the PATH      variable 
+  *click on new and enter python,s install disctonary.
+  
+  16)Indentation is mendatory in python to define the blocks of statement it is the   white space before any statement .statements with the same indentational level     will have the same white space before them indicating then as a single code block .
+ 
